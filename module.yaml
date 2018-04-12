@@ -1,0 +1,4 @@
+full-build *default:
+  build:
+    target: Docnet.sln
+    configuration: Release
